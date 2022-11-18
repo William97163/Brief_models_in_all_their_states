@@ -1,0 +1,26 @@
+Planning du brief "les modeles dans tous leurs états"
+
+Tâche  
+
+1/ Création du Planning 
+
+2/ Création du repository
+
+3/ S'approprier les consignes et les ressources données dans le brief 
+
+4/ Créer chaque notebook pour chaque dataset
+
+5/ Compléter les notebook en s’aidant de l’exemple donné dans les ressources 
+
+6/ Rédiger sur un wiki la démarche d'instalation du projet
+
+7/ Faire la mise à jour sur github
+
+
+Planning prévisionnel : deadline pour le code le 18 novembre 2022
+
+5h30 de travail - Lundi 14/11 
+
+6h de travail - Mardi 15/11 
+
+5h de travail - Mercredi 16/11 
